@@ -35,7 +35,7 @@ function mine() {
     
     
     const block = {
-        id: blocks.length
+        id: blocks.length, transactions
     }
     const hash = SHA256(JSON.stringify(block))
    
