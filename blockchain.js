@@ -6,6 +6,7 @@ class Blockchain {
        
     }
     addBlock(block){
+        block.previousHash = this.chain[this.chain.length - 1 ].toHash() //adding previous hash in new block
         this.chain.push(block)
     }
 }
