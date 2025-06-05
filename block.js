@@ -1,8 +1,12 @@
 const SHA256 = require('crypto-js/sha256');
 
 class Block {
-    toHash(msg) {
-        return SHA256(msg)// a hash!
+    
+    constructor(data){
+        this.data = data
+    }
+    toHash(data) {
+        return SHA256(this.data)// a hash!
     }
 }
 
