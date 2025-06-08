@@ -32,7 +32,7 @@ class Transaction {
             throw new error("not enough sweeto")
         }
         this.inputUTXOs.forEach((utxo)=>{return utxo.spend()}) //transaction successsfullll
-        
+        this.fee = (inputAmount - outputAmount); // output fee given to miner as reward smt typa concept
     }
 }
 
