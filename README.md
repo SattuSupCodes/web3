@@ -1,13 +1,6 @@
-# Sample Hardhat Project
+# Sattu's WEB3 Journey Begins
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a Hardhat Ignition module that deploys that contract.
+I saw how many web3 projects go in hackathons and win prizes, and web2 is soooo old school. Gotta move on to some transactional quests!
 
-Try running some of the following tasks:
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat ignition deploy ./ignition/modules/Lock.js
-```
+
