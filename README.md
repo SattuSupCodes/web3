@@ -8,4 +8,4 @@ This repo is a sample hardhat project folder with its dependencies installed. Ho
 1. Ethereum Bootcamp Codes : we learn about basic cryptogrphy and bitcoin concepts, how secure they are, and how we code for basic ethereum actvities. 
 2. (to be updated as we proceed further)
 
-#I used git bash to enable ssh and generate key and felt so super buhahahaha
+# I used git bash to enable ssh and generate key and felt so super buhahahaha
