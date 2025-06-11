@@ -5,7 +5,7 @@ I saw how many web3 projects go in hackathons and win prizes, and web2 is soooo 
 
 # What This Repo Contains
 This repo is a web3 learning journey, refer to these following folders:
-1. Theory Folder : Some important theory that I feel is helpful to know, manly I write in my physical notebook but I'll keep some good ones here for you all as well~
+1. Theory Folder : Some important theory that I feel is helpful to know, mainly I write in my physical notebook but I'll keep some good ones here for you all as well~
 
 2. Ethereum Bootcamp Codes : we learn about basic cryptogrphy and bitcoin concepts, how secure they are, and how we code for basic ethereum actvities.
 
