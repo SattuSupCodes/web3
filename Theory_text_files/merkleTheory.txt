@@ -12,3 +12,8 @@ A state trie which contains information about Ethereum accounts
 A storage trie which is where we can write persistent data from smart contracts
 A transactions trie which contains the transactions stored in a block
 A receipts trie which contains log/event information from contracts
+
+why am I learning about trees and data storage this week?
+
+The reason is that blockchains have a storage problem. They require that nodes in the network store every value recorded in their shared database. For ethereum this means all account balances, 
+as well as every persistent variable on a smart contract. 

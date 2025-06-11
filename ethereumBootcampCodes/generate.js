@@ -6,4 +6,4 @@ const privateKey = crypto.randomBytes(32);
 console.log("private key:", toHex(privateKey));
 const publicKey = secp256k1.getPublicKey(privateKey);
 console.log("public key: ", toHex(publicKey))
-//ecdsa app snipppet of how to generate private/public key pair. This is according to 3.x version of ethereum-cryptography library.
+//ecdsa app snippet of how to generate private/public key pair. This is according to 3.x version of ethereum-cryptography library.
