@@ -1,0 +1,14 @@
+Here is a technical overview of merkling in Ethereum by Vitalik Buterin. Vitalik highlights several reasons for using Patricia Merkle Tries in Ethereum:
+
+1. Efficient data verification (from its merkle properties)
+2. More complex light-client queries
+3. Can quickly change values and only recompute a portion of the tree (prevents some DDOS attack vectors)
+4. There is a limit to the depth of the tree, which prevents other DDOS attack vectors
+5.The order of the updates do not matter for the root hash
+
+Ethereum nodes maintain four tries:
+
+A state trie which contains information about Ethereum accounts
+A storage trie which is where we can write persistent data from smart contracts
+A transactions trie which contains the transactions stored in a block
+A receipts trie which contains log/event information from contracts
