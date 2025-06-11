@@ -27,3 +27,5 @@ Any code deployed onto the Ethereum computer is honored now and forever.
 Smart contracts inherit the cryptographic properties of the Ethereum computer: immutability, 
 censorship-resistance and verifiability. Once you deploy a smart contract, unless you explicitly code in a clause 
 with a call to selfdestruct, that contract will live on the Ethereum computer FOREVER. No one can change it, not even Vitalik.
+
+- This written content is by Alchemy University's Ethereum Bootcamp Course
