@@ -1,0 +1,5 @@
+A Virtual Machine is a program that emulates a particular environment for code to run in.
+
+For instance, if you wanted to run macOS on Windows, you could download a virtual machine that would emulate
+the macOS environment. In this case, the virtual machine emulates a hardware architecture.
+
