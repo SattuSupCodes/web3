@@ -12,3 +12,5 @@ Gas is a measurement of the cost to each operation that relates to the computati
 incurs on the network. So if you are making every node in the network do some kind of computationally expensive 
 task every time they need to verify your transaction, you'll need to pay for significantly 
 more than a simple transaction that is sending money from one individual to another.
+
+more information of ethereum virtual machine : https://ethereum.github.io/yellowpaper/paper.pdf

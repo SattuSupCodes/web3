@@ -1,0 +1,22 @@
+(written content from university Alchemy)
+
+On September 15th, 2022 Ethereum transitioned from Proof of Work to Proof of Stake (POS), also known as “The Merge”. This was a massive migration that was always in the roadmap and original planning for Ethereum, but required coordination from the entire network to execute.
+
+We learned about Proof of Work, the consensus mechanism used by Bitcoin and previously Ethereum in week 1. Proof of Stake is a totally different mechanism that enables Ethereum to be:
+
+More secure 🔒
+Less energy intensive 🌎 
+Greater scalability 📈
+
+How POS works?
+
+How PoS works
+In order to become a miner in PoW, there are large energy requirements, which makes it difficult for any individual to compete with the existing mining warehouses that are dedicating millions of dollars of resources to mining.
+
+However, in Proof of Stake, the energy requirement to become a validator is much lower and can be done by individuals without a high overhead energy cost. This encourages more users to become validators, decreasing the centralization risk, and thereby increasing the security of the network.
+
+Instead of using mass amounts of electricity, validators are required to stake 32ETH by depositing it into a contract to have the ability to validate blocks. This staked ETH is used as collateral against bad actors in the network. If any given validator acts dishonest or malicious they put themselves at risk of losing their staked ETH.
+
+Rather than all validators competing at the same time for the next block, the network randomly selects a validator to propose a block every 12 seconds, all the other validators verify that the proposed block is correct, and the cycle repeats.
+
+This means that the energy requirements to mine any given block are significantly lower than that of PoW.

@@ -1,0 +1,26 @@
+AAAAAAAAAAAAHHHHHHHHHHHH
+SOOOOOOOOOOOOO TIREDDDDDDDDDDD
+YET SOOOOOOOOOOOOO
+
+
+sekshy huahuahuahuahua
+
+anyways here's a note on whats Finality:
+
+Finality in blocks refers to how confident you are that the given block will not change or 
+get forked away. For blocks that have been on the network for a very long time (older blocks) it is extremely 
+unlikely that it will be removed from the canonical chain and therefor has high finality.
+
+Proof of Stake introduced 2 new levels of finality that developers should consider when requesting data from the network: safe and finalized. Here is an overview of all “block tags”:
+
+earliest: The lowest numbered block the client has available. Intuitively, you can think of this as the first block created.
+
+finalized: The most recent crypto-economically secure block, that has been accepted by >2/3 of validators. Typically finalized in two epochs (64 blocks). Cannot be re-orged outside of manual intervention driven by community coordination. Intuitively, this block is very unlikely to be re-orged.
+
+safe: The most recent crypto-economically secure block, typically safe in one epoch (32 blocks). Cannot be re-orged outside of manual intervention driven by community coordination. Intuitively, this block is “unlikely” to be re-orged.
+
+latest: The most recent block in the canonical chain observed by the client, this block may be re-orged out of the canonical chain even under healthy/normal conditions. Intuitively, this block is the most recent block observed by the client.
+
+pending: A sample next block built by the client on top of latest and containing the set of transactions usually taken from local mempool. Intuitively, you can think of these as blocks that have not been mined yet.
+To remember the differences between the block tags you can think of them in the order of oldest to newest block numbers: earliest ≤ finalized ≤ safe ≤ latest ≤ pending
+
