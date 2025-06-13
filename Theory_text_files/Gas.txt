@@ -1,0 +1,14 @@
+for(let i = 0; i >= 0; i++) {
+  console.log(i);
+}
+
+How could we create an environment in which code like this would not be able to run infinitely? 
+
+It turns out the simplest way to do this is by adding a monetary cost to each operation. This cost on Ethereum is known as gas.
+
+Gas:-
+
+Gas is a measurement of the cost to each operation that relates to the computational cost that the operation 
+incurs on the network. So if you are making every node in the network do some kind of computationally expensive 
+task every time they need to verify your transaction, you'll need to pay for significantly 
+more than a simple transaction that is sending money from one individual to another.
