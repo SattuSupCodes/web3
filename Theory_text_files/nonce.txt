@@ -1,4 +1,4 @@
-k so the concept of nonce confuses me a built
+k so the concept of nonce confuses me a bit
 nonce is for number used only once
 
 block_data = "transactions + previous_hash + timestamp"
