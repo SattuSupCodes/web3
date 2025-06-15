@@ -14,3 +14,12 @@ task every time they need to verify your transaction, you'll need to pay for sig
 more than a simple transaction that is sending money from one individual to another.
 
 more information of ethereum virtual machine : https://ethereum.github.io/yellowpaper/paper.pdf
+
+EIP-1559:-
+
+As many of you may know, the price of gas is something that changes with every block. Historically, gas prices on Etheruem have been unpredictable and at times, astronomically high making transactions inaccessible to most people.
+
+However, In August 2021, after years of research and planning there was an EIP proposed to improve the calculation of gas prices on Ethereum, known as EIP-1559. Instead of covering the antiquated computation of gas prices from before EIP-1559, 
+we’re just going to focus on how this works for the current state of Ethereum (post EIP-1559).
+
+- written content from university alchemy
