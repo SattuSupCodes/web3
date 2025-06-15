@@ -1,0 +1,17 @@
+k so the concept of nonce confuses me a built
+nonce is for number used only once
+
+block_data = "transactions + previous_hash + timestamp"
+nonce = 678 (example)
+
+hash = SHA256(block_data + nonce)
+
+outpur - 0f98... (hash)
+
+NONCE IS NOT A SUBSTRING USED JUST ONCE IN A HASH THIS WAS MY MISCONCEPTION
+
+Its just that hash functions are extremely sensitive — one bit changes, entire hash changes.
+
+so nonce is just a random number that miners change repeatedly to alter the block's hash until it meets this condition.
+Condition being the difficulty (how many 0s in beginning)
+
