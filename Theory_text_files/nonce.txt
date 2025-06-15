@@ -6,7 +6,7 @@ nonce = 678 (example)
 
 hash = SHA256(block_data + nonce)
 
-outpur - 0f98... (hash)
+output - 0f98... (hash)
 
 NONCE IS NOT A SUBSTRING USED JUST ONCE IN A HASH THIS WAS MY MISCONCEPTION
 
