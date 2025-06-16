@@ -1,4 +1,22 @@
 So... How do we communicate with the ethereum computer? The answer is... JSON-RPC!
 
-![alt text](..\Theory_text_files\images\jsonRPC_1.png)
+(refer to the first image in readme.md file for the easy-to-understand diagram)
 
+> Nodes and Clients in ethereum
+
+1. Nodes:  Any instance of Ethereum client software that is connected to other computers also running Ethereum software, forming a network.
+
+2. Client: Implementation of Ethereum that verifies data against the protocol rules and keeps the network secure.
+
+sooo...
+JSON-RPC is a remote procedure call (RPC) protocol that uses JSON to encode messages. In other words, JSON-RPC is simply another API standard.
+
+"there is a server out there and I want to call a method on it by executing a remote procedure call"
+
+{
+    "jsonrpc" : "2.0",
+    "method" : "eth_getBalance",
+    "params" : ["0x1u8..."],
+    "id" : "0"
+}
+The above is what a JSON-RPC Request that asks for the account balance of an address looks like.
