@@ -16,6 +16,10 @@ This repo is a web3 learning journey, refer to these following folders:
 1. What we build with help of JSON-RPC
 ![image](https://github.com/user-attachments/assets/86f00b7f-ce6b-4c68-948b-419b4e624350)
 
+2. The flow of JSON-RPC
+3. ![image](https://github.com/user-attachments/assets/2305d3de-5d57-4731-9563-6ce7a212d49e)
+
+
 
 # Things I Found Difficult
 1. Merkle tree and patricia tree difficult shi to code, I keep getting lost. 
