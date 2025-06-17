@@ -20,3 +20,9 @@ JSON-RPC is a remote procedure call (RPC) protocol that uses JSON to encode mess
     "id" : "0"
 }
 The above is what a JSON-RPC Request that asks for the account balance of an address looks like.
+
+The jsonrpc version, which is always 2.0
+The specific method that you would like to call (must be a method in the interface!)
+Any params relevant to the method called
+The id of the request is any arbitrary number you choose. The id property is only relevant when you are batching requests,
+if you are making stand-alone requests you can just use 0.
