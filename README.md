@@ -20,8 +20,12 @@ This repo is a web3 learning journey, refer to these following folders:
 ![image](https://github.com/user-attachments/assets/2305d3de-5d57-4731-9563-6ce7a212d49e)
 
 3. You can try this jsonRpc request on your command line (windows)
+
 `curl -X POST --data “{\“jsonrpc\”:\”2.0\”,\”method\”:\”eth_blockNumber\”,\”params\”:[],\”id\”:83}” https://eth-mainnet.alchemyapi.io/v2/gZgOOh1X3cpVWXeVR9EL51zC1vpbggIF`
-output: ![image](https://github.com/user-attachments/assets/7128f3ec-6a97-4f21-8969-da35af482017)
+
+output: 
+
+![image](https://github.com/user-attachments/assets/7128f3ec-6a97-4f21-8969-da35af482017)
 
 
 
