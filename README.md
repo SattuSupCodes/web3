@@ -27,6 +27,10 @@ output:
 
 ![image](https://github.com/user-attachments/assets/7128f3ec-6a97-4f21-8969-da35af482017)
 
+4. My JSON-RPC Request Logs
+
+   Pastin it here simply cause it looks cool and also cause ... I can ;)
+   ![image](https://github.com/user-attachments/assets/4d9ae15d-bcda-4746-9c05-bbffbe160e4b)
 
 
 # Things I Found Difficult
