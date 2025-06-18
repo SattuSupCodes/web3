@@ -24,9 +24,9 @@ module.exports = getBalance;
 //soooo.... for that we can use method : eth_getTransactionCount
 
 require('dotenv').config();
-const { API_KEY } = process.env;
+// const { API_KEY } = process.env;
 const axios = require('axios');
-const url = `https://eth-mainnet.g.alchemy.com/v2/${API_KEY}`;
+// const url = `https://eth-mainnet.g.alchemy.com/v2/${API_KEY}`; had to comment it cause it caused error
 
 async function getTotalBalance(addresses) {
     const batch = addresses.map((addr, i) => ({
