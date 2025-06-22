@@ -42,7 +42,7 @@ output:
 1. Merkle tree and patricia tree difficult shi to code, I keep getting lost. 
 
 # Resoures
-1. Alchemy.com/university
+1. University.Alchemy.com
 2. https://docs.ethers.org/v5/api/signer/#Signer--blockchain-methods - signers list 
 3. https://ethereum.github.io/yellowpaper/paper.pdf
 4. https://www.npmjs.com/package/ethereum-cryptography
