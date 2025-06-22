@@ -27,6 +27,14 @@ output:
 
 ![image](https://github.com/user-attachments/assets/7128f3ec-6a97-4f21-8969-da35af482017)
 
+4. My JSON-RPC Request Logs
+
+   Pastin it here simply cause it looks cool and also cause ... I can ;)
+   ![image](https://github.com/user-attachments/assets/4d9ae15d-bcda-4746-9c05-bbffbe160e4b)
+
+5. The Structure of A Transaction
+
+   ![image](https://github.com/user-attachments/assets/a4a4a55b-6bc2-4a32-a978-f30daefc118d)
 
 
 # Things I Found Difficult
