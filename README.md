@@ -12,7 +12,8 @@ This repo is a web3 learning journey, refer to these following folders:
 3. (to be updated as we proceed further)
 
 #I used git bash to enable ssh and generate key and felt so super buhahahaha
-# Diagrams To Understand Ethereum
+# Diagrams To Understand JSON-RPC
+Json RPC is something VERY IMPORTANT in ethereum blockchain so, I'm giving that a special spot in my very visible Readme file.
 1. What we build with help of JSON-RPC
 ![image](https://github.com/user-attachments/assets/86f00b7f-ce6b-4c68-948b-419b4e624350)
 
@@ -40,4 +41,8 @@ output:
 # Things I Found Difficult
 1. Merkle tree and patricia tree difficult shi to code, I keep getting lost. 
 
- 
+# Resoures
+1. Alchemy.com/university
+2. https://docs.ethers.org/v5/api/signer/#Signer--blockchain-methods - signers list 
+3. https://ethereum.github.io/yellowpaper/paper.pdf
+4. https://www.npmjs.com/package/ethereum-cryptography

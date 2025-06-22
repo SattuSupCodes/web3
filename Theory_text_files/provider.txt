@@ -1,0 +1,12 @@
+Provider
+Many Ethereum libraries use the term provider for an object that acts as a 
+connection to the Ethereum blockchain. In Ethers.js, a provider helps us reduce 
+the code we write. Once you configure the provider you can interact with its methods 
+without worrying about the underlying details.
+
+This is commonly referred to as an abstraction in programming. 
+The connection details are abstracted away from the programmer. 
+Instead we can focus on what we want to do! For instance, 
+we can write code to ask the provider for the latest block number 
+in the Ethereum blockchain. We don't need to worry whether it's getting 
+that block number from infura, etherscan, a local testnet or a remote mainnet node! 
