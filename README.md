@@ -48,3 +48,4 @@ output:
 2. [Signers List](https://docs.ethers.org/v5/api/signer/#Signer--blockchain-methods) 
 3. [Yellow papers on ethereum (must read)](https://ethereum.github.io/yellowpaper/paper.pdf)
 4. [Documentation 3.2.0 for Ethereum Cryptography library](https://www.npmjs.com/package/ethereum-cryptography)
+5. [Smart Contracts by Nick Szabo (1996)](https://www.fon.hum.uva.nl/rob/Courses/InformationInSpeech/CDROM/Literature/LOTwinterschool2006/szabo.best.vwh.net/smart_contracts_2.html)
