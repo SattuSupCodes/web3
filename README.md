@@ -40,7 +40,8 @@ output:
 
 
 # Things I Found Difficult
-1. Merkle tree and patricia tree difficult shi to code, I keep getting lost. 
+1. Merkle tree and patricia tree difficult shi to code, I keep getting lost.
+2. Slighly heavy js coding as we proceed. I'm familar with basics but still learning.
 
 # Resoures
 1. [University.Alchemy.com](https://university.alchemy.com/)
