@@ -1,0 +1,9 @@
+view: this function promises that** NO state will be changed, only read**
+
+This is basically a keyword that can be seen as the function itself saying: "I promise to just "view", not change state!" 🙋‍♂️
+
+pure: this function promises that NO state will be changed nor read
+
+This is basically a keyword that can be seen as the function itself saying: "I promise to act completely independent of the smart contract I am in!" 🙋‍♂️
+
+- University Alchemy
