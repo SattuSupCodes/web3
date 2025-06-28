@@ -9,7 +9,7 @@ This repo is a web3 learning journey, refer to these following folders:
 
 2. Ethereum Bootcamp Codes : we learn about basic cryptogrphy and bitcoin concepts, how secure they are, and how we code for basic ethereum actvities.
 
-3. (to be updated as we proceed further)
+3. Solidity : code folder for Solidity language used for smart contracts
 
 #I used git bash to enable ssh and generate key and felt so super buhahahaha
 # Diagrams To Understand JSON-RPC
