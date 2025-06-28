@@ -51,4 +51,4 @@ output:
 5. [Smart Contracts by Nick Szabo (1996)](https://www.fon.hum.uva.nl/rob/Courses/InformationInSpeech/CDROM/Literature/LOTwinterschool2006/szabo.best.vwh.net/smart_contracts_2.html)
 6. [Ethereum Book](https://github.com/ethereumbook/ethereumbook)
 7. [teSmart Contracts by Nick Szabo (997)](https://www.fon.hum.uva.nl/rob/Courses/InformationInSpeech/CDROM/Literature/LOTwinterschool2006/szabo.best.vwh.net/idea.html)
-8.[OpCodes](https://www.evm.codes/) 
+8. [OpCodes](https://www.evm.codes/) 
