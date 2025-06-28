@@ -1,8 +1,7 @@
 /* Here we specify the solidity versions
  * Any version greater than or equal to 0.6.2
  * or less than 0.7.0 will compile this contract */
-// pragma solidity ^0.6.2;
-
+pragma solidity ^0.8.4;
 contract OnOffSwitch {
     // the switch is on if true
     bool private isOn;
@@ -19,4 +18,4 @@ contract OnOffSwitch {
         // return the new value
         return isOn;
     }
-}
+}//honestly rn im sleepy asf... ugh
