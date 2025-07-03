@@ -15,7 +15,7 @@ contract OnOffSwitch {
     function toggle() public returns(bool) {
         // flip isOn from true->false or false->true
         isOn = !isOn;
-        // return the new value
+        // return the new value also im very tired ahhh
         return isOn;
     }
 }//honestly rn im sleepy asf... ugh
