@@ -3,7 +3,7 @@ pragma solidity ^0.8.20;
 
 contract Contract {
 	address public owner;
-	address public charity;
+	address public charity; //tryin remix ide rn
 
 	constructor(address _charity) {
 		owner = msg.sender;
