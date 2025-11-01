@@ -42,6 +42,9 @@ output:
 # Things I Found Difficult
 1. Merkle tree and patricia tree difficult shi to code, I keep getting lost.
 2. Slighly heavy js coding as we proceed. I'm familar with basics but still learning.
+3. thirdweb failed smh. Also I need to pay?? hell naur
+   <img width="1911" height="714" alt="image" src="https://github.com/user-attachments/assets/fab2051e-18e5-40cc-ac42-38c7bfbb8c23" />
+
 
 # Resoures
 1. [University.Alchemy.com](https://university.alchemy.com/)
