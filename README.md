@@ -37,6 +37,10 @@ output:
 5. The Structure of A Transaction
 
    ![image](https://github.com/user-attachments/assets/a4a4a55b-6bc2-4a32-a978-f30daefc118d)
+6. GETH
+
+   <img width="1787" height="931" alt="image" src="https://github.com/user-attachments/assets/5fac9830-0748-443a-ba7e-3fbdc804b437" />
+
 
 
 # Things I Found Difficult
